@@ -1,1 +1,1 @@
-Data structures and algorithms coding questions from CSES and Code Forces.
+Data structures and algorithms coding questions from CSES, Code Forces, USACO, and Advent of Code.
